@@ -28,6 +28,7 @@ I have setup an online discussion board on slack.com for usage in this class. I 
 Go to [https://cybr-4580-8950.slack.com](https://cybr-4580-8950.slack.com) and use your unomaha email address to register an account. This will give you access to the course discussion and project collaboration spaces. Use the the general channel, your project channel, or private messages. I expect all project-related communication to live in your slack channel. If you need my attention please use the `@mlhale` syntax to get my attention.
 
 ## Tentative Class Schedule
+
 | Dates | Week | Activity|
 |-------|------|---------|
 | August 23 | 1 | Course introduction, ideation, form pitches.  |
