@@ -1,11 +1,11 @@
 # CYBR8950
-This repository contains a digitized version of the course content for the CYBR 4580/8950 Certification and Accreditation capstone course at the University of Nebraska at Omaha.
+This repository contains a digitized version of the course content for the CYBR 4580 Certification and Accreditation capstone course at the University of Nebraska at Omaha.
 
 ## Viewing these materials
-The class materials are best viewed at [https://mlhale.github.io/CYBR4580-8950/](https://mlhale.github.io/CYBR4580-8950/)
+The class materials are best viewed at [https://mlhale.github.io/cybr4580](https://mlhale.github.io/cybr4580)
 
 ## Overview
-In this course, students will extend and apply their knowledge, accumulated from their undergraduate/graduate studies, towards defining, implementing, and assessing secured information systems. Students will demonstrate their ability to specify, apply, and assess different types of countermeasures at different points in a system or enterprise.
+In this course, students will extend and apply their knowledge, accumulated from their undergraduate studies, towards defining, implementing, and assessing secured information systems. Students will demonstrate their ability to specify, apply, and assess different types of countermeasures at different points in a system or enterprise.
 
 ## Table of contents
 <!-- TOC START min:1 max:3 link:true asterisk:false update:false -->
@@ -27,32 +27,29 @@ I have setup an online discussion board on slack.com for usage in this class. I 
 
 Go to [https://cybr-4580-8950.slack.com](https://cybr-4580-8950.slack.com) and use your unomaha email address to register an account. This will give you access to the course discussion and project collaboration spaces. Use the the general channel, your project channel, or private messages. I expect all project-related communication to live in your slack channel. If you need my attention please use the `@mlhale` syntax to get my attention.
 
- <!-- (or `@Bill Mahoney ` to get Bill's). -->
-
- <!--## Tentative Class Schedule
-<!--
- | Dates | Week | Activity|
- |-------|------|---------|
- | August 27 | 1 | Course introduction, ideation, form pitches.  |
- | September 3 | 2 | 5-10 minute presentations on your pitches, form teams, begin working on full proposal (Milestone 1) |
- | September 10 | 3 | Project management tooling lab. Team meetings. Work on proposal (milestone 1). |
- | September 17 | 4 | Milestone 1 due, 20 minute presentations + 5 minute Q/A, random order. Milestone 2 assigned. |
- | September 24 | 5 | Work on Milestone 2. Team meetings. |
- | October 1 | 6 | Work on Milestone 2. Team meetings. |
- | October 8 | 7 | Work on Milestone 2. Team meetings. |
- | October 15 | 8 | Work on Milestone 2. Team meetings. |
- | October 22 | 9 | Fall break - no class. |
- | October 29 | 10 | Milestone 2 due, 25minute presentations + 5 minute Q/A, random order. Milestone 3 assigned. |
- | November 5 | 11 | Work on Milestone 3. Team meetings. |
- | November 12 | 12 | Work on Milestone 3. Team meetings. |
- | November 19 | 13 | Work on Milestone 3. Team meetings. |
- | November 26 | 14 | Work on Milestone 3. Team meetings. |
- | December 3 | 15 | Work on Milestone 3. Team meetings. |
- | December 10 | 16 | Finish Milestone 3. Team meetings. (Prep week) |
- | December 17 | 17 | Milestone 3 Due. Final Presentations (Start at 5:00 PM) |
--->
-
 ## Tentative Class Schedule
+| Dates | Week | Activity|
+|-------|------|---------|
+| August 23 | 1 | Course introduction, ideation, form pitches.  |
+| August 30 | 2 | 5-10 minute presentations on your pitches, form teams, begin working on full proposal (Milestone 1) |
+| September 6 | 3 | Project management tooling lab. Team meetings. Work on proposal (milestone 1). |
+| September 13 | 4 | Milestone 1 due, 20 minute presentations + 5 minute Q/A, random order. Milestone 2 assigned. |
+| September 20 | 5 | Work on Milestone 2. Team meetings. |
+| September 27 | 6 | Work on Milestone 2. Team meetings. |
+| October 4 | 7 | Work on Milestone 2. Team meetings. |
+| October 11 | 8 | Work on Milestone 2. Team meetings. |
+| October 18 | 9 | Fall break - no class. |
+| October 25 | 10 | Milestone 2 due, 25minute presentations + 5 minute Q/A, random order. Milestone 3 assigned. |
+| November 1 | 11 | Work on Milestone 3. Team meetings. |
+| November 8 | 12 | Work on Milestone 3. Team meetings. |
+| November 15 | 13 | Work on Milestone 3. Team meetings. |
+| November 22 | 14 | Work on Milestone 3. Team meetings. |
+| November 29 | 15 | Work on Milestone 3. Team meetings. |
+| December 6 | 16 | Finish Milestone 3. Team meetings. (Prep week) |
+| December 13 | 17 | Milestone 3 Due. Final Presentations (Start at 5:00 PM) |
+
+
+<!-- ## Tentative Class Schedule
 
 | Dates | Week | Activity|
 |-------|------|---------|
@@ -72,10 +69,10 @@ Go to [https://cybr-4580-8950.slack.com](https://cybr-4580-8950.slack.com) and u
 | April 16 | 14 | Work on Milestone 3. Team meetings. |
 | April 23 | 15 | Work on Milestone 3. Team meetings. |
 | April 30 | 16 | Finish Milestone 3. Team meetings. (Prep week) |
-| May 7 | 17 | Milestone 3 Due. Final Presentations (Start at 5:30 PM) |
+| May 7 | 17 | Milestone 3 Due. Final Presentations (Start at 5:30 PM) | -->
 
 ## Location
-All classroom activities will take place in PKI room 164 (or via Zoom for the 820 section) unless otherwise noted ahead of time. Due to the nature of the course, often meeting rooms will be used for the individual teams meeting.
+All classroom activities will take place in PKI room 160 (or via Zoom for team meetings) unless otherwise noted ahead of time. Due to the nature of the course, often meeting rooms will be used for the individual teams meeting.
 
 ## Projects
 The structure of the course accommodates two types of projects.
@@ -101,14 +98,17 @@ In this track students will select a project from those projects pitched in the 
 In this track students will select or be assigned an existing product or system to develop or evaluate. Projects may originate from external local companies or internal UNO organizations.
 
 ### Project Milestones
-* [Capstone Pitches](./projects/pitch.md) - Due Jan. 23 by class time. Submission on Canvas.  
-[Capstone Milestone 1 rubric](./projects/milestone1.md) - Due Feb. 13th by class time. Submit link to Canvas, files to GitHub.
-* [Capstone Milestone 2 rubric](./projects/milestone2.md) - Due March 19th by class time. Submit link to Canvas, files to GitHub.
-* [Capstone Milestone 3 rubric (final)](./projects/milestone3.md) - Due May 7th by class time. Submit link to Canvas, files to GitHub.
+* [Capstone Pitches](./projects/pitch.md) - Submission on Canvas.
+* Capstone Milestone 1 - TBA
+* Capstone Milestone 2 - TBA
+* Capstone Milestone 3 - TBA
+<!-- * [Capstone Milestone 1 rubric](./projects/milestone1.md) - Submit link to Canvas, files to GitHub. -->
+<!-- * [Capstone Milestone 2 rubric](./projects/milestone2.md) - Submit link to Canvas, files to GitHub. -->
+<!-- * [Capstone Milestone 3 rubric (final)](./projects/milestone3.md) - Submit link to Canvas, files to GitHub. -->
 
-#### Evaluation form
+<!-- #### Evaluation form
 Please use the evaluation form below to assess your teammates.
-[https://unomaha.az1.qualtrics.com/jfe/form/SV_78KSInR45r2vV89](https://unomaha.az1.qualtrics.com/jfe/form/SV_78KSInR45r2vV89) 
+[https://unomaha.az1.qualtrics.com/jfe/form/SV_78KSInR45r2vV89](https://unomaha.az1.qualtrics.com/jfe/form/SV_78KSInR45r2vV89)  -->
 
 
 ### Project Process
@@ -221,7 +221,6 @@ Regardless of your project type, you will do the following:
 
 ## Syllabus
 
-### Date/Time: Tuesday 5:30pm – 8:10pm
 ### Instructor:  Dr. Hale
 ### Office:  PKI 174-D, (402) 554-3978
 ### Office Hours:  By appointment or walk-ins anytime the door is open
@@ -283,6 +282,6 @@ In addition, the instructor retains the right to use any code or project artifac
 
 ## License
 CYBR Capstone
-Copyright (C) 2016-2020  Dr. Matthew L. Hale
+Copyright (C) 2016-2021  Dr. Matthew L. Hale
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">CYBER4580/CYBR 8950 and related works</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://faculty.ist.unomaha.edu/mlhale" property="cc:attributionName" rel="cc:attributionURL">Matt Hale</a> are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
