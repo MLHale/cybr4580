@@ -1,4 +1,4 @@
-# CYBR4580/8950 Pitch format
+# CYBR4580 Pitch format
 This is a template document for pitches. Please make sure your pitch has all of these components. **Your pitch should not be longer than 1 page**
 
 ## Title

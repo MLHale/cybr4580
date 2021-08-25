@@ -1,4 +1,4 @@
-# CYBR8950
+# CYBR4580
 This repository contains a digitized version of the course content for the CYBR 4580 Certification and Accreditation capstone course at the University of Nebraska at Omaha.
 
 ## Viewing these materials
@@ -9,7 +9,7 @@ In this course, students will extend and apply their knowledge, accumulated from
 
 ## Table of contents
 <!-- TOC START min:1 max:3 link:true asterisk:false update:false -->
-- [CYBR4580/8950](#cybr45808950)
+- [CYBR4580](#cybr4580)
   - [Viewing these materials](#viewing-these-materials)
   - [Overview](#overview)
   - [Table of contents](#table-of-contents)
@@ -241,8 +241,6 @@ Each project milestone will have a specific grading rubric that includes the cor
 ### Group Work
 Students will work in groups. The instructor in this class will assign the groups. The capstone class is like the real world – you don’t always get to have your way! Each group will have four members, although obviously there may be an odd group or two depending on the class list. 
 
-<!-- Students in Track 1 will have three undergraduates from CYBR 4580 and two graduate students from CYBR 8950. Students in Track 2 will have all five members from CYBR 4580. -->
-
 Group projects will include an individual participation grade worth 60% of the total group points, e.g. a group may make a 100% on a particular project, but an individual with low participation in the group may make a 40%. Participation will be anonymously rated by other group team members and the instructor.
 
 ### Team formation
@@ -284,4 +282,4 @@ In addition, the instructor retains the right to use any code or project artifac
 CYBR Capstone
 Copyright (C) 2016-2021  Dr. Matthew L. Hale
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">CYBER4580/CYBR 8950 and related works</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://faculty.ist.unomaha.edu/mlhale" property="cc:attributionName" rel="cc:attributionURL">Matt Hale</a> are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">CYBER4580 and related works</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://faculty.ist.unomaha.edu/mlhale" property="cc:attributionName" rel="cc:attributionURL">Matt Hale</a> are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
