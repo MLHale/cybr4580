@@ -32,8 +32,8 @@ Go to [https://cybr-4580-8950.slack.com](https://cybr-4580-8950.slack.com) and u
 | Dates | Week | Activity|
 |-------|------|---------|
 | August 23 | 1 | Course introduction, ideation, form pitches, record video presentations.  |
-| August 30 | 2 | Form teams, GitHub Tutorial, begin working on full proposal (Milestone 1) |
-| September 6 | 3 | Project management tooling lab. Team meetings. Work on proposal (milestone 1). |
+| August 30 | 2 | Form teams, Project management tooling lab, begin working on full proposal (Milestone 1) |
+| September 6 | 3 | Team meetings. Work on proposal (milestone 1). |
 | September 13 | 4 | Milestone 1 due, 20 minute presentations + 5 minute Q/A, random order. Milestone 2 assigned. |
 | September 20 | 5 | Work on Milestone 2. Team meetings. |
 | September 27 | 6 | Work on Milestone 2. Team meetings. |
