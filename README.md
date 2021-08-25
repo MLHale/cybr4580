@@ -39,7 +39,7 @@ Go to [https://cybr-4580-8950.slack.com](https://cybr-4580-8950.slack.com) and u
 | September 27 | 6 | Work on Milestone 2. Team meetings. |
 | October 4 | 7 | Work on Milestone 2. Team meetings. |
 | October 11 | 8 | Work on Milestone 2. Team meetings. |
-| October 18 | 9 | Fall break - no class. |
+| October 18 | 9 |  Work on Milestone 2. Team meetings. |
 | October 25 | 10 | Milestone 2 due, 25minute presentations + 5 minute Q/A, random order. Milestone 3 assigned. |
 | November 1 | 11 | Work on Milestone 3. Team meetings. |
 | November 8 | 12 | Work on Milestone 3. Team meetings. |
