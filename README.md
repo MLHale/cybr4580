@@ -34,7 +34,7 @@ Go to [https://cybr-4580-8950.slack.com](https://cybr-4580-8950.slack.com) and u
 | August 23 | 1 | Course introduction, ideation, form pitches, record video presentations.  |
 | August 30 | 2 | Form teams, Project management tooling lab, begin working on full proposal (Milestone 1) |
 | September 6 | 3 | Team meetings. Work on proposal (milestone 1). |
-| September 13 | 4 | Milestone 1 due, 20 minute presentations + 5 minute Q/A, random order. Milestone 2 assigned. |
+| September 13 | 4 | Milestone 1 due on September 15th, 20 minute presentations + 5 minute Q/A, random order. Milestone 2 assigned. |
 | September 20 | 5 | Work on Milestone 2. Team meetings. |
 | September 27 | 6 | Work on Milestone 2. Team meetings. |
 | October 4 | 7 | Work on Milestone 2. Team meetings. |
@@ -100,7 +100,7 @@ In this track students will select or be assigned an existing product or system 
 
 ### Project Milestones
 * [Capstone Pitches](./projects/pitch.md) - Submission on Canvas.
-* [Capstone Milestone 1](./projects/milestone1.md) - Due September 13
+* [Capstone Milestone 1](./projects/milestone1.md) - Due September 15 at 11:59pm
 * Capstone Milestone 2 - TBA
 * Capstone Milestone 3 - TBA
 <!-- * [Capstone Milestone 1 rubric](./projects/milestone1.md) - Submit link to Canvas, files to GitHub. -->
