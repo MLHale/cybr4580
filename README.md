@@ -101,7 +101,7 @@ In this track students will select or be assigned an existing product or system 
 ### Project Milestones
 * [Capstone Pitches](./projects/pitch.md) - Submission on Canvas.
 * [Capstone Milestone 1](./projects/milestone1.md) - Due September 15 at 11:59pm
-* Capstone Milestone 2 - TBA
+* [Capstone Milestone 2](./projects/milestone2.md) - Due November 5th at 11:59pm
 * Capstone Milestone 3 - TBA
 <!-- * [Capstone Milestone 1 rubric](./projects/milestone1.md) - Submit link to Canvas, files to GitHub. -->
 <!-- * [Capstone Milestone 2 rubric](./projects/milestone2.md) - Submit link to Canvas, files to GitHub. -->
