@@ -1,4 +1,4 @@
-# CYBR4580/8950 Project Milestone 2: Prototype and Research Paper Outline
+# CYBR4580 Project Milestone 2: Prototype Deliverable
 
 **Submit on canvas, make sure to include a link to your github repo**
 **Add Dr. Hale as a collaborator on your GitHub Repo**
@@ -11,7 +11,6 @@ This project milestone tasks you with producing your first major deliverable. Si
   - Identify tasks achieved from your backlog
   - Document the product increments (an agile term for the things you produce) generated in this milestone
   - Bind tasks, code artifacts, and documentation together
-- [Research Paper Outline](#research-paper-outline) - Draft your Research Paper
 - [Visual understanding (aka diagrams)](#diagrams) - Encapsulate your efforts diagrammatically
 - [Issue Tracking / Planning](#issue-tracking-and-planning) - Stay organized with approrpriate tracking of tasks
 - [Presentation](#presentation) - Present your progress to the class
@@ -75,22 +74,6 @@ Your team will be graded as follows:
 
 **Total 120 points.**
 
-## Research Paper Outline
-You should focus, as part of this milestone, on drafting an outline of your research paper. The emphasis of this process is to prepare an outline early enough in the semester to work with Dr. Hale to refine it into your eventual paper. Even though you may not know all of your results and findings yet, you should be able to draft the skeleton of the paper and start drafting sections of the paper such as your literature review and methodology.
-
-### Submission materials
-Submit a draft document containing your outline on canvas. The outline can be in any document format, but .docx is preferable. Also include your outline on your github repository.
-
-### Grading Criteria
-Your outline will not be graded using a rubric, but it is expected to meet the following requirements. 
-
-1. Contains a well-written 500 word or less abstract that previews the argument to be made in the paper.
-1. Has defined section headings for each of the sections you expect to have in your paper
-1. Has a bulleted list of talking points you expect to fall within each section
-1. Section headings and bullets build a narrative flow that is compatibile with your main research argument.
-
-**Total: 100 points**
-
 ## Diagrams
 In addition to the project documentation, you should produce a set of process or conceptual diagrams suited to your project. This could be a set of activity diagrams for penetration-testing oriented projects, it could be software architecture diagrams for development-oriented projects, or it could be a process/conceptual model for other projects.
 
@@ -141,10 +124,10 @@ This part of the milestone is strictly captured by your Kanban board and/our iss
 **Total 40 points.**
 
 ## Presentation
-You will be expected to present your Milestone 2 achievements to the class and your sponsor in the form of a video. It is important that you use this time to both inform your classmates and sponsor of your activities and to practice for your final presentation. Things to be considered are 1) conveying a sense of interest and excitement about your project 2) cool product demos, and 3) interesting intermediate findings of conducting your projects.
+You will be expected to present your Milestone 2 achievements to the class and your sponsor in the form of a video. It is important that you use this time to both inform your classmates and sponsor of your activities and to practice for your final presentation. Things to be considered are 1) conveying a sense of interest and excitement about your project 2) cool product demos, and 3) interesting intermediate findings of conducting your projects. Projects under NDA will only present to their stakeholders and Dr. Hale
 
 ### Submission Materials
-Submit your slides on Canvas and post your video using VidGrid to canvas alongside your paper outline and respository link. Also post the link to your vidGrid video on our slack channel - so that your peers can see it
+Submit your slides on Canvas and post your video using VidGrid to canvas alongside your respository link. Also post the link to your vidGrid video on our slack channel (if not under NDA) - so that your peers can see it
 
 ### Grading Criteria
 You will be graded by a presentation rubric posted on canvas.
