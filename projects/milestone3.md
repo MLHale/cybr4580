@@ -1,4 +1,4 @@
-# CYBR4580/8950 Final Project Milestone (Milestone 3): Final Delivery Increment, Packaging, and Release
+# CYBR4580 Final Project Milestone (Milestone 3): Final Delivery Increment, Packaging, and Release
 
 
 ## Overview
@@ -12,8 +12,6 @@ This project milestone tasks you with producing your final major deliverable. Si
   - The Final report should be non-trivial and list out all accomplishments across the project, pulling together the plan from milestone 1 and the deliverables achieved in Milestones 2 and 3.
   - The Final report should be delivered as-if you were preparing it for release to your customer. This means including sufficient supporting documentation to understand and fully interpret your results, install needed tooling, etc.
 - [Presentation](#presentation) - Present your project to the class, your external partner (where applicable), and others in Cybersecurity
-- [Graduate student paper](#graduate-student-paper) - If you are a graduate student, you must complete the additional paper as specified below.
-
 
 ## Project realization Progress report
 Here, you should identify the tasks you have achieved in milestone 3, document the product or other intellectual/applied outcomes that have resulted from your efforts, and bind your tasks to the outcomes and documentation you have produced so far.
@@ -144,36 +142,7 @@ Presentations will be graded using the following rubric. Each student on a team 
 * Note that Demos may include videos if the conditions necessary to replicate the demo cannot be re-created in a live in-class demo.
 
 **Total 70 points.**
-## Research paper
-In addition to the project deliverables associates with your project, you are expected to develop a non-trivial research paper that follows-on from your milestone 2 work and discussions with Dr. Hale. The paper should considered "conference ready" - that is to say it should exhibit a high quality writing product, synthesize concepts from multiple sources, and build cohesive narrative in support of the focus of the research (whatever that may be). 
 
-
-*Warning* This paper is not a simple term paper! Short, poorly written work that does not synthesize concepts or build cohesive narrative will not suffice.
-
-### Submission materials
-You will submit a paper as a word document (.doc or .docx) to Dr. Hale. Format your paper using the [ACM paper template](https://www.acm.org/binaries/content/assets/publications/word_style/interim-template-style/interim-layout.docx). This template is a two column format. Your paper should be no more than 10 pages in length (including figures). It is recommended that you fit your results into the following (fairly standard) paper structure.
-
-- Abstract
-- Introduction
-- Background
-- (your sections go here) e.g. Methodology, Results 
-- Conclusion
-
-### Grading Criteria
-This portion of the final milestone is worth 200 points. It will not be graded via rubric, but the following guidelines will be used to assess the paper.
-
-- Does the abstract succinctly summarize the work? Does it state the high level problem and address how the work contributes to solving the problem?
-- Claims made by the authors are supported by appropriate research in the literature. References and citing should be used as appropriate. A works-cited set of references should be maintained and accurately included in the paper.
-- Introduction - The paper should overview a problem, summarize effort by others towards addressing the problem, and identify how the project work contributes to filling gaps in other efforts.
-- Background - Sufficient and relevant literature should be summarized and properly cited - including use of appropriately formatted referencing, as appropriate. 
-- Sections addressing the problem and outcomes of the project should be well stated and overview the contributions of the authors. These might include, as an example a methodology section followed by a results section. 
-- A conclusion section should highlight the salient outcomes of the paper and reinforce the findings with appropriate analysis or conclusive synthesis. 
-- Grammar and spelling - The paper should be free of grammar and spelling errors. 
-- Writing style - The paper should have a cohesive narrative flow that maintains the reader's interest. 
-
-The quality of submission should be significantly better than a "typical class paper" written to a prompt. Time and group sizes are limiting factors, papers written by a group of authors will be held to a comparably higher standard than papers written solo. If students decide to submit a shared graduate student paper among their teammates, I will expect the quality to be higher, given the reduced time burden associated with the group work. 
-
-**Group work should also include an additional section in the paper notating the contributions of each author. All authors must agree with the contribution list.**
 
 #### License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">CYBER4580 and related works</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://faculty.ist.unomaha.edu/mlhale" property="cc:attributionName" rel="cc:attributionURL">Matt Hale</a> are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
